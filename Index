@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+  <html>
+   
+   <head>
+      <title> Die besten Netflix-Serien </title>
+    </head>
+      
+      <body>
+        
+        <h1>
+          <strong> Die besten Netflix-Serien </strong>
+        </h1>
+        
+        <h5>
+          von Hannah Sophie Kuprion
+        </h5>
+        
+        <p>
+          Hey, ihr liebt Netflix und verbingt sehr viel Zeit darauf? Wisst aber nie wirklich was ihr jetzt als nächste Serie schauen wollt? Dann seid ihr hier genau richtig. <br> Hier findet ihr nach Kategorien sortiert die besten Serien auf Netflix. 
+          <br> Ich selbst verbringe fast jede freie Minute auf Netflix, egal ob Filme oder Serien, ich schaue alles was mich nur in gewisser Weise anspricht. <br> Nur frage ich mich immer, wenn eine meiner Serien fertig ist, welche ich denn jetzt schauen soll. 
+          <br> Um euch dieses Problem zu ersparen, habe ich für euch diese Seite entwickelt. 
+        </p>
+        
+        <h1>
+          <strong> Inhaltsverzeichnis </strong>
+         </h1>
+        
+         <ol start = "1">
+           <li> Überblick der Kategorien </li>
+           <li> Serien in den Kategorien </li>
+         </ol>
+        
+       <h2>
+         <strong> Überblick der Kategorien </strong>
+        </h2>
+        
+        <table border=3>
+         <tr> <td> <strong> Action: </strong> </td> 
+         <tr> <td> <strong> Anime: </strong> </td> 
+         <tr> <td> <strong> Crime: </strong> </td>
+         <tr> <td> <strong> Drama: </strong> </td> 
+         <tr> <td> <strong> Horror: </strong> </td> 
+         <tr> <td> <strong> Sci-Fi: </strong> </td> 
+         <tr> <td> <strong> Romantisch: </strong> </td> 
+        </table>
+        
+       <h2>
+         <strong> Serien in den Kategorien </strong>
+        </h2>
+        <table border=3>
+         <tr> <td> <strong> Action: </strong> </td> <td> Lost in space </td> <td> Narcos </td> <td> Prison Break </td>
+         <tr> <td> <strong> Anime: </strong> </td>  <td> Pokemon </td> <td> Naruto </td> <td> Yu-Gi-Ho! </td>
+         <tr> <td> <strong> Crime: </strong> </td> <td> Riverdale </td> <td> Pretty Little Liars </td> <td> Elementary </td>
+         <tr> <td> <strong> Drama: </strong> </td>  <td> Vampire Diaries  </td> <td> der Denver-Clan </td> <td> Gossip Girl </td>
+         <tr> <td> <strong> Horror: </strong> </td>  <td> Shadow Hunters </td> <td> The Originals </td> <td> Bitten </td>
+         <tr> <td> <strong> Sci-Fi: </strong> </td>  <td> Van Helsing </td> <td> Stranger Things </td> <td> Orphan Black </td>
+         <tr> <td> <strong> Romantisch: </strong> </td>  <td> Jane the Virgin </td> <td> New Girl </td> <td> How I met your mother </td>
+        </table>
+       
+       <h3> 
+         <em> Lost in Space <a href="https://www.youtube.com/watch?v=fzmM0AB60QQ"> Trailer </a> </em>
+       </h3>
+          <img src="LIS.jpg"
+               width: "100px"
+               height: "100px">
+          <p>
+            Die Serie handelt von den Abenteuern der Familie Robinson, die auf der Reise zur Neubesiedlung des Sonnensystems 
+            „Alpha Centauri“ ist. Das Projekt mit dem Namen „Ein neuer Anfang“ (A New Beginning) wird von der Erde beworben, 
+            weil diese immer unbewohnbarer erscheint, so gibt es dort schon lange keinen blauen Himmel mehr.  Auf ihrer Reise 
+            wird die Resolute, so der Name des Besiedlungsschiffes, von außerirdischen Robotern angegriffen und teilweise zerstört.
+            Einige der Neusiedler, darunter die Robinsons, können sich in Rettungsschiffe flüchten und so dem Tod entkommen. Das 
+            Schiff der Robinsons, die Jupiter 2, gelangt dabei in ein Wurmloch und ist daraufhin „im Weltall verschollen“  Nachdem
+            sie, weitere Fluchtschiffe (Jupiters) und die Resolute durch das Wurmloch fielen, strandeten die Jupiters auf einem 
+            Planeten, dem sie nie einen Namen gaben.
+          </p>
+          
+        <h3>
+         <em> Pokemon <a href="https://www.youtube.com/watch?v=qR0-CzBMNSM">Trailer</a> </em>
+        </h3>
+        <img src="P.png"
+             width: "100px"
+             height: "100px">
+          <p>
+            Die Handlung basiert auf den Pokémon-Spielen. Der Hauptcharakter der Serie ist Ash Ketchum, der an den Helden der ersten
+            japanischen Spiele angelehnt ist, jedoch nach offiziellen Angaben mit keinem Hauptreihen-Protagonisten identisch ist. 
+            Die erste Staffel orientiert sich an den Editionen Rot und Blau und spielt in Kanto (Kantō). Allerdings läuft sein erstes
+            Pokémon Pikachu ihm nach, da es sich anfangs weigert im Pokéball zu bleiben, dies ist der Edition Gelb nachempfunden. 
+            Später wird auch die Region Johto (Kinki und Tōkai) bereist, die aus den Editionen Gold, Silber und Kristall bekannt ist.
+            Allerdings werden die Protagonisten gleichgelassen. Erst als Ash die Regionen Hoenn (Kyūshū) aus Rubin, Saphir und Smaragd
+            und Sinnoh (Hokkaidō) aus Diamant, Perl und Platin, bereist, wechseln seine Gefährten. Darauf folgt die Einall-Region, 
+            welche auf New York basiert. Zu ihr gehören die Spiele Schwarz, Weiß, Schwarz 2 und Weiß 2. Die darauffolgende Region, Kalos,
+            basiert auf Frankreich, zu welcher die Editionen X und Y gehören. Die Alola-Region aus den Spielen Sonne und Mond basiert auf
+            Hawaii.
+          </p>
+        
+        <h3>
+          <em> Riverdale <a href="https://www.youtube.com/watch?v=HxtLlByaYTc">Trailer </a> </em>   
+        </h3>
+        <img src="R.jpg"
+             width: "100px"
+             height: "100px">
+          <p>
+          Riverdale scheint auf den ersten Blick ein ruhiges, unschuldiges Städtchen zu sein, doch der Schein trügt. Seit dem tragischen 
+          Tod des Highschool-Schülers Jason Blossom ist nichts mehr wie vorher. Archie Andrews will eine Karriere als Musiker anstreben 
+          und versucht, seine kaputte Freundschaft mit dem angehenden Autor und Klassenkameraden Jughead Jones zu bereinigen. Derweil 
+          freut sich Betty Cooper auf ihren Schwarm Archie, ist aber nicht bereit, ihm ihre Gefühle zu gestehen. Als die neue Schülerin, 
+          Veronica Lodge, gemeinsam mit ihrer Mutter Hermione aus New York City nach Riverdale zieht, funkt es sofort zwischen der 
+          modebewussten Schönheit und Archie. Jedoch will Veronica ihre neue Freundschaft zu Betty nicht gefährden. Und dann ist da noch 
+          die „Bienenkönigin“ Cheryl Blossom, die anscheinend mehr über den mysteriösen Tod ihres Zwillingsbruders Jason weiß, als sie 
+          zugeben will.
+          </p>
+        
+         <h3>
+          <em> Vampire Diaries <a href="https://www.youtube.com/watch?v=BmVmhjjkN4E"> Trailer </a> </em>  
+         </h3>
+        <img src="VD.jpg"
+             width: "100px"
+             height: "100px">
+          <p>
+         Die Highschool-Schülerin Elena Gilbert hat ihre Eltern bei einem Autounfall verloren. Ihre Tante Jenna Sommers, die jüngere Schwester
+         der Mutter, ist nach Mystic Falls gekommen, um sich um sie und ihren jüngeren Bruder Jeremy zu kümmern. Als der neue Mitschüler Stefan 
+         Salvatore auf der Bildfläche erscheint, weckt er sofort Elenas Interesse. Sie ahnt nicht, dass es sich bei Stefan um einen bereits 
+         jahrhundertealten Vampir handelt. Als dann noch Stefans älterer Bruder Damon auftaucht, der von Elena ebenfalls angezogen ist, 
+         überschlagen sich die Ereignisse. Stefan wird misstrauisch, denn er weiß, dass Damon nichts Gutes im Sinn hat. Elena wird in eine Welt 
+         hineingeworfen, von deren Existenz sie bislang nichts geahnt hat.
+          </p>
+        
+         <h3>
+           <em> Shadow Hunter <a href="https://www.youtube.com/watch?v=kI9MVzyWxH8">Trailer </a> </em>  
+         </h3>
+        <img src="SH.jpg"
+             width: "100px"
+             height: "100px">
+          <p>
+          Die achtzehnjährige Clary Fray geht an ihrem Geburtstag mit ihrem besten Freund Simon Lewis in einen Club und trifft dort auf drei Teenager 
+          mit seltsamen Tattoos und fremdartigen Waffen. Da sie die einzige ist, die die drei sehen kann, läuft sie ihnen nach, wodurch sie Zeuge eines 
+          Massakers wird, das wieder nur sie zu sehen scheint. Daraufhin wird ihre Mutter entführt, die einen magischen Kelch besitzt, den wohl 
+          wichtigsten Gegenstand der sogenannten Unterwelt, in die Clary jetzt hineingeraten ist und in der Werwölfe, Vampire und Elfen keine 
+          Schauermärchen mehr sind. Die drei Shadowhunter Jace Wayland, Alec Lightwood und Isabelle Lightwood, deren Eltern die Leiter des New Yorker 
+          Instituts sind, zeigen Clary Fray die düstere Parallelwelt, an die sie sich nicht erinnern kann, da ihre Erinnerungen zum Schutz des Mädchens 
+          und des Engelkelches von dem Hexenmeister Magnus Bane gelöscht worden sind. Jace Herondale bringt ihr bei, in seiner Welt zu überleben, wobei 
+          die beiden Gefühle füreinander entwickeln. Dadurch entsteht ein Konkurrenzkampf zwischen Simon und Jace Herondale um die schöne Shadowhunterin, 
+          wobei der gutmütige Simon eindeutig den Kürzeren zieht. Alec hegt starke Abneigungen gegen Clary Fray, da er über seine gegenseitig Kraft 
+          verleihende Parabatai-Bindung hinaus starke Gefühle für Jace Herondale hegt. Jace Herondale steht immer hinter Clary Fray, die auf jede erdenkliche 
+          Weise versucht ihre Shadowhunter Mutter Jocelyn Fray vor Valentin, ihrem Vater, zu beschützen und sie zu befreien. Der Kampf um den Kelch hat begonnen, 
+          wodurch Clary in größter Gefahr ist, denn sie ist der Schlüssel zur Endlosen Macht des Kelches, doch ihre Erinnerungen bleiben verschwunden. Im Laufe der 
+          Staffel wird Alecs und Isabelles Eltern die Leitung des Instituts durch Lydia Branwell entzogen, da es häufig zu Gesetzesverstößen kommt, wenn die 
+          jungen Shadowhunter sich auf eigene Faust auf die Suche nach dem Kelch machen. Weiterhin macht der begabte Hexenmeister Magnus Bane Alec schöne Augen 
+          und Simon wird durch Clarys Entscheidung in einen Vampir verwandelt und muss somit sein bisheriges Leben aufgeben. Zum Ende spitzt sich die Lage zu, als 
+          Valentin Clary und Jace eröffnet, dass sie Geschwister sind, wodurch ihre Beziehung in eine unangenehme Lage kommt. Am Ende stellt sich heraus, dass Clary 
+          ein 100%iger Dämon war.
+          </p>
+        
+         <h3>
+           <em> Van Helsing <a href="https://www.youtube.com/watch?v=3S9ibSxYUY0"> Trailer </a> </em>  
+         </h3>
+        <img src="VH.jpg"
+             width: "100px"
+             height: "100px">
+          <p>
+          Die Serie handelt von Vanessa „Van“ Helsing, einer Nachfahrin Abraham van Helsings, welche beim Beginn einer Vampirapokalypse stirbt und drei Jahre darauf 
+          wiederaufersteht und sich in einer post-apokalyptischen Welt dem Kampf gegen eine Vampir-Plage stellen muss.
+          </p>
+          
+         <h3>
+            <em> Jane the Virgin <a href="https://www.youtube.com/watch?v=5Prj9gXInZc"> Trailer </a> </em>
+         </h3>
+        <img src="JTV.jpg"
+               width: "100px"
+               height: "100px">
+          <p>
+            Die 23-jährige Latina Jane will mit dem Sex bis zur Ehe warten. Ihr Freund Michael hat damit zwar so seine Schwierigkeiten, steht aber voll hinter 
+            seiner Herzdame. Janes Leben ändert sich schlagartig, als sie bei einem frauenärztlichen Routinebesuch von einer verwirrten Gynäkologin versehentlich 
+            künstlich befruchtet wird. Zu allem Unglück stammt der Samen von Janes altem Schwarm Rafael Solano.
+          </p>
+      
+     
+     </body>
+   </html>
